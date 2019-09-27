@@ -1,7 +1,5 @@
 Getting and Cleaning Data Week 4 Project
 
-Codebook.md describes the associated variable names, the data itself, and the procedures that were followed to generate the resulting data.
-
 The data were sourced from the Human Activity Recognition Using Smartphones Data Set, from the following link:
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
